@@ -11,4 +11,4 @@ asymmetrical
 
 ### Analysis in polish
 
-![screenshot](images/CLT-simulation.pdf)
+![screenshot](public/CLT-simulation.pdf)
