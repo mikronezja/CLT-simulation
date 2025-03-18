@@ -1,14 +1,11 @@
-# CLT-simulation
-
-### Central limit simulation made for a class project
+# ❇️ Central Limit Threorem Simulation ❇️
+📊 Central limit simulation made for a class project for Probability and Statistics 📊
 
 ## Simulation for the Central Limit Threorem
 
-I have use the chi-squared distribution with df = 2
-in order to show that the
-CLT works for every type of distubion, even the ones which are
-asymmetrical
+Here I have used the chi-squared distribution with degrees of freedom equal to 2.
+This was because I wanted to show that the Central Limit Theorem works for EVERY type od distribution,
+even the asymmetrical ones. 📈
 
 ### Analysis in polish
-
 ![screenshot](public/CLT-simulation.pdf)
